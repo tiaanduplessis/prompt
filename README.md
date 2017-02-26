@@ -3,6 +3,7 @@
 <div align="center">
   <strong>A minimal bash prompt with git info 💻</strong>
 </div>
+<br>
 <div align="center">
     <a href="https://github.com/RichardLitt/standard-readme)">
       <img src="https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square" alt="Standard Readme" />
