@@ -1,6 +1,9 @@
 <h1 align="center">💻 unfancy-prompt</h1>
 <br>
 <div align="center">
+  <strong>A minimal bash prompt with git info 💻</strong>
+</div>
+<div align="center">
     <a href="https://github.com/RichardLitt/standard-readme)">
       <img src="https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square" alt="Standard Readme" />
     </a>
@@ -18,6 +21,8 @@
 <div align="center">
   Built with ❤︎ by <a href="tiaanduplessis.co.za">Tiaan</a> and <a href="https://github.com/tiaanduplessis/bolt/graphs/contributors">contributors</a>
 </div>
-
-A minimal prompt bash prompt with `git` info. To use, append the `prompt.sh` to your `.bashrc`.
+<br>
+<div align="center">
+  <img src="demo.png" alt="demo" />
+</div>
 
