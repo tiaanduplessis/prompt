@@ -5,9 +5,6 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://github.com/RichardLitt/standard-readme)">
-      <img src="https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square" alt="Standard Readme" />
-    </a>
     <a href="https://badge.fury.io/gh/tiaanduplessis%2Funfancy-prompt">
       <img src="https://badge.fury.io/gh/tiaanduplessis%2Funfancy-prompt.svg?style=flat-square" alt="GitHub version" />
    </a>
