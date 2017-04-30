@@ -11,9 +11,6 @@
     <a href="https://badge.fury.io/gh/tiaanduplessis%2Funfancy-prompt">
       <img src="https://badge.fury.io/gh/tiaanduplessis%2Funfancy-prompt.svg?style=flat-square" alt="GitHub version" />
    </a>
-   <a href="https://greenkeeper.io/">
-      <img src="https://badges.greenkeeper.io/tiaanduplessis/unfancy-prompt.svg?style=flat-square" alt="Greenkeeper" />
-   </a>
    <a href="https://travis-ci.org/tiaanduplessis/unfancy-prompt">
       <img src="https://img.shields.io/travis/tiaanduplessis/unfancy-prompt/master.svg?style=flat-square" alt="Travis Build" />
     </a>
