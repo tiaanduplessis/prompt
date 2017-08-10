@@ -41,5 +41,4 @@ function parse_git_dirty {
 	fi
 }
 
-export PS1="${Cya}𝝺${Yel}\`parse_git_branch\` ${BWhi}\W ${RCol}"
-
+export PS1="${Cya}●${Yel}\`parse_git_branch\` ${BWhi}\W ${RCol}"
